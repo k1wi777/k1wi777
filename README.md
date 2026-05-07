@@ -209,6 +209,7 @@ More full stack and mobile projects coming soon.
 </div>
 
 <br>
+<div align="center">
 
 ```diff
 + Frontend Web Development with React & Next.js
@@ -217,6 +218,8 @@ More full stack and mobile projects coming soon.
 + Backend Fundamentals & APIs
 + Software Architecture Learning
 ```
+  
+</div>
 
 <br>
 
@@ -234,12 +237,22 @@ More full stack and mobile projects coming soon.
 
 <br>
 
-<a href="mailto:TUCORREO">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+<a href="mailto:jp3563454@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6366F1"/>
+<a href="mailto:prueba@gmail.com">
+  <img src="https://img.shields.io/badge/jp3563454@gmail.com-0D1117?style=for-the-badge&logoColor=white"/>
+</a>
+
+
+
+<a href="https://linkedin.com/in/tuusuario">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tuusuario">
+  <img src="https://img.shields.io/badge/jose--padilla-0D1117?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
