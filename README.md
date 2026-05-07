@@ -1,141 +1,218 @@
 <div align="center">
 
-# 👋 Hola, soy Jose Alfredo
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Jose%20Alfredo&fontAlign=50&fontAlignY=40&color=0:6A00FF,100:0D1117&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20•%20Systems%20Engineering%20Student&descAlignY=60&descSize=18"/>
 
-### 🎓 Estudiante de Ingeniería de Sistemas  
-### 💻 Frontend Developer | React • Next.js • React Native
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Construyendo+experiencias+web+y+móviles;Apasionado+por+el+desarrollo+frontend;React+%7C+Next.js+%7C+Expo+React+Native;Siempre+aprendiendo+nuevas+tecnologías" />
+<div align="center">
+
+<h1>
+  <span style="background: linear-gradient(90deg,#a855f7,#6366f1,#3b82f6); -webkit-background-clip: text; color: transparent;">
+    ⚡ Building Modern Web & Mobile Experiences ⚡
+  </span>
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Developer+specialized+in+React+ecosystem;Next.js+%7C+React+Native+%7C+Expo+%7C+TypeScript;Systems+Engineering+Student;Always+learning+new+technologies+🚀"/>
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
+<div align="center">
 
-🎓 Estudiante de Ingeniería de Sistemas próximo a graduarme.  
-💡 Apasionado por el desarrollo de software y la creación de interfaces modernas.  
-⚛️ Actualmente enfocado principalmente en el desarrollo frontend, aunque también cuento con conocimientos en backend.  
-📱 Desarrollo aplicaciones web y móviles utilizando tecnologías modernas.  
-🧠 Me gusta aprender constantemente y construir proyectos que mezclen diseño, lógica y rendimiento.
+## 🧠 About Me
+
+</div>
+
+```ts
+const jose = {
+  location: "Colombia",
+  career: "Systems Engineering",
+  role: "Frontend Developer",
+  focus: [
+    "React",
+    "Next.js",
+    "React Native",
+    "Expo"
+  ],
+  learning: [
+    "Backend Development",
+    "Software Architecture",
+    "Mobile Apps"
+  ],
+  passions: [
+    "UI/UX",
+    "Modern Interfaces",
+    "Performance",
+    "Clean Code"
+  ]
+};
+```
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+<div align="center">
+
+# 🚀 Tech Stack
+
+</div>
 
 <div align="center">
 
-![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,java,mysql,prisma,git,github,linux,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1A1A1A?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
 ---
 
-# 📌 Proyectos Destacados
+<div align="center">
 
-## 🎫 Unytick — Plataforma Web & Mobile
+# 📌 Featured Projects
 
-> Sistema moderno de gestión universitaria orientado a la venta, validación y administración de tickets de alimentación.
+</div>
 
-### 🚀 Tecnologías
+<table>
+<tr>
+<td width="50%">
+
+## 🎫 Unytick Platform
+
+Modern university platform for ticket management and food access validation.
+
+### ⚡ Stack
 - Next.js
-- React Native + Expo
+- React Native
+- Expo
 - Prisma
 - MySQL
-- TypeScript
 
-🖼️ **Vista previa del proyecto**  
-<!-- Aquí puedes colocar una imagen -->
-```html
-<img src="URL_DE_LA_IMAGEN" width="100%" />
-```
+<img src="https://placehold.co/600x300/0D1117/A855F7?text=Unytick+Preview" />
 
----
+</td>
+
+<td width="50%">
 
 ## 📖 Pokédex Web App
 
-> Aplicación web interactiva inspirada en Pokémon consumiendo APIs públicas y mostrando información dinámica de los personajes.
+Interactive Pokémon application consuming public APIs with dynamic UI.
 
-### 🚀 Tecnologías
+### ⚡ Stack
 - React
 - TypeScript
-- API REST
 - TailwindCSS
 
-🖼️ **Vista previa del proyecto**  
-<!-- Aquí puedes colocar una imagen -->
+<img src="https://placehold.co/600x300/0D1117/6366F1?text=Pokedex+Preview" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚛️ Gas Simulator in Java
+
+Thermodynamic simulation based on ideal gas laws and particle systems.
+
+### ⚡ Features
+- Carnot Cycle
+- Pressure Simulation
+- Particle Animation
+- Thermodynamics
+
+<img src="https://placehold.co/600x300/0D1117/8B5CF6?text=Gas+Simulator" />
+
+</td>
+
+<td width="50%">
+
+## 🚀 Future Projects
+
+Soon more full stack and mobile projects will appear here.
+
+<img src="https://placehold.co/600x300/0D1117/A855F7?text=Coming+Soon" />
+
+</td>
+</tr>
+</table>
 
 ---
-
-## ⚛️ Simulador de Gases Ideales en Java
-
-> Simulación gráfica basada en principios termodinámicos y leyes de los gases ideales.
-
-### 🚀 Características
-- Animación de partículas
-- Leyes de los gases
-- Procesos termodinámicos
-- Cálculo de presión y temperatura
-- Ciclo de Carnot
-
-🖼️ **Vista previa del proyecto**  
-<!-- Aquí puedes colocar una imagen -->
-
----
-
-# 📱 Actualmente trabajando en
-
-✅ Desarrollo Frontend Web con **React & Next.js**  
-✅ Aplicaciones móviles con **Expo & React Native**  
-✅ Interfaces modernas y responsivas  
-✅ Integración de APIs y sistemas backend  
-
----
-
-# 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+# 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
-# 🔥 Actividad
+<div align="center">
+
+# ⚡ Current Focus
+
+</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
+```diff
++ Frontend Web Development with React & Next.js
++ Mobile Apps with Expo & React Native
++ Modern UI/UX Design
++ Backend Fundamentals & APIs
++ Software Architecture Learning
+```
 
 </div>
 
 ---
 
-# 🌐 Contacto
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:TUCORREO)
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+<a href="mailto:TUCORREO">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6366F1"/>
+</a>
 
 </div>
 
@@ -143,6 +220,6 @@
 
 <div align="center">
 
-### ⚡ “Construyendo ideas que se convierten en experiencias.”
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:6A00FF"/>
 
 </div>
