@@ -252,7 +252,7 @@ More full stack and mobile projects coming soon.
 </a>
 
 <a href="https://linkedin.com/in/tuusuario">
-  <img src="https://img.shields.io/badge/jose--padilla-0D1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jose-a-padilla-0D1117?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
